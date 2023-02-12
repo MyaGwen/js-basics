@@ -19,6 +19,5 @@ let skills = "HTML, CSS and JavaScript";
 let fColor = "peach";
 let countryInd = 1957;
 
-//my name is Wendy Ahadome, I'm from Ghana and my favorite color is peach; I'm currently enrolled in Stutern's Software Engineering track, learning HTML, CSS, and JavaScript skills, and I'm proud to say that my country gained independence in 1957.
 
 console.log("My name is " + fName + " " + lName + ", "  + " and my beloved country, Ghana gained her independence in the year " + countryInd + "; " + "My favourite color is " + fColor + "," + " and I'm currently enrolled in " + "Stutern's " + sTrack + " track" + " with " + skills + " skills.");
