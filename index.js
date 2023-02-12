@@ -15,8 +15,10 @@ console.log(multiply(a, b));
 const fName = "Wendy";
 const lName = "Ahadome";
 let sTrack = "Software Engineering";
-let skills = "HTML, CSS, JavaScript";
+let skills = "HTML, CSS and JavaScript";
 let fColor = "peach";
 let countryInd = 1957;
 
-console.log("My name is " + fName + " " + lName + ". " + "My favourite color is " + fColor + " and my beloved country Ghana gained her independence in the year " + countryInd + ". " + "I'm currently enrolled in cohort 1.4 of " + "Stutern's " + sTrack + " track.");
+//my name is Wendy Ahadome, I'm from Ghana and my favorite color is peach; I'm currently enrolled in Stutern's Software Engineering track, learning HTML, CSS, and JavaScript skills, and I'm proud to say that my country gained independence in 1957.
+
+console.log("My name is " + fName + " " + lName + ", "  + " and my beloved country, Ghana gained her independence in the year " + countryInd + "; " + "My favourite color is " + fColor + "," + " and I'm currently enrolled in " + "Stutern's " + sTrack + " track" + " with " + skills + " skills.");
