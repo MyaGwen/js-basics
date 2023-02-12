@@ -5,6 +5,7 @@
 2. Name 5 things Javascript can do.
 
   -JavaScript can be used to:
+
     1. Build web-based applications.  
     2. Perform client-side form validation.  
     3. Manipulate web page contents.  
@@ -18,6 +19,7 @@
 4. How do you log to the console?
 
   -In JavaScript, you can use the console.log() method to log messages to the console. For example, to log the message "Hello, world!" to the console; 
+  
     1. Open the google chrome browser or any browser of your choice.
     2. Right-click anywhere in the browser window and select Inspect from the pop-up menu. 
     By default, the Inspect will open the "Elements" tab in the Developer Tools. 
